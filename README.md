@@ -1,5 +1,4 @@
-# 💫 About Me:
-All is about Cyber Security<br>
+#All is about Cyber Security<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.nazarov___)
